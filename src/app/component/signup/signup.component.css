@@ -1,0 +1,35 @@
+h2{
+    text-align: center;
+    color:black;
+}
+
+div#legend{
+    text-align: center;
+    color:black;
+    
+
+
+}
+
+.control-group{
+    text-align: center;
+    color:aqua;
+    
+
+    
+    
+}
+.control-label{
+    text-align: center;
+    color:black;
+
+    
+    
+}
+.container{
+    border-style:solid;
+    border-color:black;
+    padding-bottom: 10px;
+    margin-top:20px;
+    background-color:aqua;
+}
