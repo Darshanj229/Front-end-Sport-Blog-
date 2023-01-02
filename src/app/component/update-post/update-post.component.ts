@@ -32,7 +32,9 @@ export class UpdatePostComponent {
   {
     
     this.service.updatePost(postId,title,content,this.files[0],Number(categoryId)).subscribe(
-      response =>{console.log(response);}
+      response =>{console.log(response);
+       alert('Post Updated Successfully');
+                 }
     );
 
     //console.log(this.post);
