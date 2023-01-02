@@ -4,3 +4,15 @@ h1{
     color: black;
 }
 
+display-4{
+  text-align: center;
+  size: 10px;
+  text-decoration : underline;
+  color: black 10px;
+ 
+}
+
+.lead{
+  padding-left: 250px;
+  padding-right:500px;
+}
